@@ -1,3 +1,0 @@
-untraked
-trakeado y listo para un commit  (git add)
-commiteado y isto para subir al resopositorio remoto (git commit)
